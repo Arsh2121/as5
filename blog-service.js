@@ -3,7 +3,7 @@ const Sequelize = require("sequelize");
 var sequelize = new Sequelize(
   "byrxxrrt",
   "byrxxrrt",
-  "xVvaJ-mAynY11HZX4kTZ974NU2FZXhjcahQw9k",
+  "mAynY11HZX4kTZ974NU2FZXhjcahQw9k",
   {
     host: "mahmud.db.elephantsql.com",
     dialect: "postgres",
