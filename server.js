@@ -3,9 +3,11 @@
  *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
  *  (including 3rd party web sites) or distributed to other students.
  *
- *  Name: Banipreet Kaur Student ID:  Date: 12/12/22
+ *  Name: Banipreet Kaur
+ * Student ID: 156457210
+ *  Date: 12/12/22
  *
- *  Online (Heroku) Link:
+ *  Online (Cyclic) Link: https://calm-gear-dove.cyclic.app
  *
  ********************************************************************************/
 
