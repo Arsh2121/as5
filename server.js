@@ -3,11 +3,11 @@
  *  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part *  of this assignment has been copied manually or electronically from any other source
  *  (including 3rd party web sites) or distributed to other students.
  *
- *  Name: Banipreet Kaur
- * Student ID: 156457210
+ *  Name: Dhivi Narahari
+ * Student ID: 156429219
  *  Date: 12/12/22
  *
- *  Online (Cyclic) Link: https://calm-gear-dove.cyclic.app
+ *  Online (Cyclic) Link:
  *
  ********************************************************************************/
 
@@ -80,7 +80,7 @@ app.use(express.static("public"));
 app.use(
   clientSessions({
     cookieName: "session", // this is the object name that will be added to 'req'
-    secret: "banipreetkaur123456", // this should be a long un-guessable string.
+    secret: "dhivinarahari1234", // this should be a long un-guessable string.
     duration: 2 * 60 * 1000, // duration of the session in milliseconds (2 minutes)
     activeDuration: 1000 * 60, // the session will be extended by this many ms each request (1 minute)
   })
